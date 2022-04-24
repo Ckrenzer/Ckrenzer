@@ -2,9 +2,9 @@
 My name is Connor Krenzer, and I am a data science analyst. I occasionally make programming tutorials and post them on YouTube.
 
 Contact
-: email -- ckrenzer.info@gmail.com (I'd rather use a dedicated email, though you can still send one to my personal that corresponds to my YouTube channel)
-: LinkedIn -- https://www.linkedin.com/in/connor-krenzer/
-: YouTube -- https://www.youtube.com/channel/UCoTFQBc5qB4t0aGq3AA6Qgg/featured
+- email: ckrenzer.info@gmail.com (I'd rather use a dedicated email, though you can still send one to my personal that corresponds to my YouTube channel)
+- LinkedIn: https://www.linkedin.com/in/connor-krenzer/
+- YouTube: https://www.youtube.com/channel/UCoTFQBc5qB4t0aGq3AA6Qgg/featured
 
 
 # I use GitHub to Learn, Share, and Grow
