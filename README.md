@@ -15,5 +15,5 @@ These days, I work on projects that interest me or allow me to learn. New projec
 
 # Fun Facts
 1. My first ever line of code was written on January 27th, 2020. It was in R--though I started writing in Java later that week. I don't use Java much these days. R, my strongest language, was also my first!
-1. My formal computer science training was almost exclusively done in Java (and a touch of C), so most of what I know about other languages is self-taught. Self-taught is a bit of a misnomer--much of my knowledge comes from my knowledge of data structures and Hadley Wickham's books, among others.
+1. My formal computer science training was almost exclusively done in Java (and a touch of C), so most of what I know about other languages is self-taught. Self-taught is a bit of a misnomer--much of my knowledge comes from my knowledge of data structures and Hadley Wickham's books, among other resources.
 1. I haven't met anyone from Wisconsin.
