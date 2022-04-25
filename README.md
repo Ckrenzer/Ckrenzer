@@ -1,5 +1,5 @@
 # About
-My name is Connor Krenzer, and I am a data science analyst based in Atlanta. I occasionally make programming tutorials and post them on YouTube.
+My name is Connor Krenzer, and I work in a data science role based in Atlanta. I occasionally make programming tutorials and post them on YouTube.
 
 ### Contact
 - **Email**: ckrenzer.info@gmail.com
