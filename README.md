@@ -10,7 +10,7 @@ My name is Connor Krenzer, and I work in a data science role based in Atlanta. I
 # I use GitHub to Learn, Share, and Grow
 Repos started in 2020 or 2021 were created while in undergrad and may be hot messes! I will not remove them, however, as it's important to remember your humble beginnings. A few of those were essentially desperate pleas saying, *"Please hire me, I have used algorithm x before--I have a project portfolio to talk about!"*, in response to employers asking which algorithms I've used in the past. We've all been there. But it's good to have a sense of urgency. Messy as they are, I still appreciate that I took the time to fill the scripts up with comments and documentation.
 
-These days, I work on projects that interest me or allow me to learn. New projects stay structured and organized!
+These days, I work on projects that interest me or facilitate learning. New projects stay structured and organized!
 
 
 # Fun Facts
