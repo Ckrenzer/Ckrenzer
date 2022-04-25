@@ -2,7 +2,7 @@
 My name is Connor Krenzer, and I am a data science analyst based in Atlanta. I occasionally make programming tutorials and post them on YouTube.
 
 ### Contact
-- **Email**: ckrenzer.info@gmail.com (I'd rather use a dedicated email, though you can still send one to the account corresponding to my YouTube channel)
+- **Email**: ckrenzer.info@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/connor-krenzer/
 - **YouTube**: https://www.youtube.com/channel/UCoTFQBc5qB4t0aGq3AA6Qgg/featured
 
@@ -15,5 +15,5 @@ These days, I work on projects that interest me or allow me to learn. New projec
 
 # Fun Facts
 1. My first ever line of code was written on January 27th, 2020. It was in R--though I started writing in Java later that week. I don't use Java much these days. R, my strongest language, was also my first!
-1. Most of what I know in R is self-taught. My formal computer science training was all done in Java (and a tiny bit of C). Self-taught is a bit of a misnomer--much of my knowledge comes from my knowledge of data structures and Hadley Wickham's books.
+1. My formal computer science training was almost exclusively done in Java (and a touch of C), so most of what I know about other languages is self-taught. Self-taught is a bit of a misnomer--much of my knowledge comes from my knowledge of data structures and Hadley Wickham's books, among others.
 1. I haven't met anyone from Wisconsin.
