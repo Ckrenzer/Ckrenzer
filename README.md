@@ -1,5 +1,5 @@
 # About
-My name is Connor Krenzer, I'm from Upstate New York, and I work in a data science role based in Atlanta. I occasionally make programming videos and post them on YouTube.
+My name is Connor Krenzer, and I work in a data science role based in Atlanta. I occasionally make programming videos and post them on YouTube.
 
 ### Contact
 - **Email**: ckrenzer.info@gmail.com
