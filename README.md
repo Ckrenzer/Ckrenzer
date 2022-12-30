@@ -11,6 +11,5 @@ My name is Connor Krenzer, and I work in a data science role based in Atlanta.
 These days, I tend to work on projects that are interesting, facilitate learning, or help others.
 
 I started using GitHub to practice programming and learn about Git.
-As a result, there are quite a few low-quality repositories on my profile.
-You will find those early repos that do not receive frequent updates in [ck-earlyrepos](https://github.com/ck-earlyrepos).
-I will not hide them, however, as it's important to remember your humble beginnings.
+I've continued using GitHub because it is an excellent platform to share
+code and collaborate with others.
